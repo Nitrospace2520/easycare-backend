@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Dr. Sara Khanna",
+    "registrationId": "GMC/2022/597576",
+    "council": "GMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Ritvik Bhakta",
+    "registrationId": "NMC/2022/189427",
+    "council": "NMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Abram Sabharwal",
+    "registrationId": "GMC/2014/389459",
+    "council": "GMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Divyansh Lal",
+    "registrationId": "TNMC/2012/343434",
+    "council": "TNMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Ira Gera",
+    "registrationId": "TSMC/2004/624965",
+    "council": "TSMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Urvi Dasgupta",
+    "registrationId": "RMC/2005/932499",
+    "council": "RMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Yasmin Aggarwal",
+    "registrationId": "KMC/2015/848079",
+    "council": "KMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Divit Chander",
+    "registrationId": "TNMC/2004/365211",
+    "council": "TNMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Stuvan Wadhwa",
+    "registrationId": "GMC/2009/223821",
+    "council": "GMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Ishita Halder",
+    "registrationId": "TNMC/2001/778247",
+    "council": "TNMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Purab Ahluwalia",
+    "registrationId": "TNMC/2010/888411",
+    "council": "TNMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Ela Jhaveri",
+    "registrationId": "TNMC/2007/859220",
+    "council": "TNMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Jivika Ratti",
+    "registrationId": "MMC/2020/933672",
+    "council": "MMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Divit Ratta",
+    "registrationId": "TSMC/2010/522850",
+    "council": "TSMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Aniruddh Chaudhary",
+    "registrationId": "KMC/2007/409079",
+    "council": "KMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Onkar Devi",
+    "registrationId": "GMC/2008/985767",
+    "council": "GMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Ishita Chopra",
+    "registrationId": "APMC/2008/430725",
+    "council": "APMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Akarsh Sarkar",
+    "registrationId": "MMC/2020/984232",
+    "council": "MMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Lagan Rama",
+    "registrationId": "TNMC/2004/186363",
+    "council": "TNMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Yasmin Kuruvilla",
+    "registrationId": "NMC/2006/731059",
+    "council": "NMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Nehmat Edwin",
+    "registrationId": "TNMC/2011/925252",
+    "council": "TNMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Jivin Loke",
+    "registrationId": "KMC/2018/752197",
+    "council": "KMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Ishita Singhal",
+    "registrationId": "APMC/2007/600913",
+    "council": "APMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Mehul Bora",
+    "registrationId": "GMC/2019/301755",
+    "council": "GMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Armaan Lad",
+    "registrationId": "NMC/2006/613839",
+    "council": "NMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Aarav Anand",
+    "registrationId": "TNMC/2014/657655",
+    "council": "TNMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Advik Sane",
+    "registrationId": "TNMC/2007/885860",
+    "council": "TNMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Gokul Som",
+    "registrationId": "RMC/2020/728093",
+    "council": "RMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Tanya Choudhary",
+    "registrationId": "TSMC/2010/385160",
+    "council": "TSMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Tara Garg",
+    "registrationId": "RMC/2019/556762",
+    "council": "RMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Yuvraj  Bahl",
+    "registrationId": "KMC/2021/778155",
+    "council": "KMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Arhaan Divan",
+    "registrationId": "GMC/2011/789625",
+    "council": "GMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Stuvan Tailor",
+    "registrationId": "TNMC/2016/376182",
+    "council": "TNMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Ela Tank",
+    "registrationId": "DMC/2017/604176",
+    "council": "DMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Vihaan Khare",
+    "registrationId": "DMC/2009/959186",
+    "council": "DMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Diya Balan",
+    "registrationId": "MMC/2022/688681",
+    "council": "MMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Suhana Deep",
+    "registrationId": "GMC/2017/676439",
+    "council": "GMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Charvi Ghose",
+    "registrationId": "TNMC/2003/716615",
+    "council": "TNMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Siya Lad",
+    "registrationId": "DMC/2008/118590",
+    "council": "DMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Indranil Malhotra",
+    "registrationId": "MMC/2021/412916",
+    "council": "MMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Lakshit Kanda",
+    "registrationId": "APMC/2014/687897",
+    "council": "APMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Aaina Kala",
+    "registrationId": "TNMC/2019/144224",
+    "council": "TNMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Dhanush Ganesh",
+    "registrationId": "MMC/2000/420478",
+    "council": "MMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Jivin Dutt",
+    "registrationId": "MMC/2023/716516",
+    "council": "MMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Mishti Bahri",
+    "registrationId": "NMC/2003/173512",
+    "council": "NMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Dishani Mani",
+    "registrationId": "TSMC/2013/135523",
+    "council": "TSMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Arhaan Wason",
+    "registrationId": "KMC/2009/320095",
+    "council": "KMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Kanav Varghese",
+    "registrationId": "KMC/2005/173479",
+    "council": "KMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Aradhya Keer",
+    "registrationId": "DMC/2002/826991",
+    "council": "DMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Aaina Bajaj",
+    "registrationId": "DMC/2001/743757",
+    "council": "DMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Tanya Dash",
+    "registrationId": "GMC/2024/177810",
+    "council": "GMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Divij Wali",
+    "registrationId": "NMC/2014/432908",
+    "council": "NMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Shayak Babu",
+    "registrationId": "NMC/2015/708600",
+    "council": "NMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Kimaya Gopal",
+    "registrationId": "TNMC/2015/182083",
+    "council": "TNMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Lavanya Grewal",
+    "registrationId": "TNMC/2001/564344",
+    "council": "TNMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Pranay Lad",
+    "registrationId": "RMC/2013/409078",
+    "council": "RMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Devansh Issac",
+    "registrationId": "MMC/2016/450042",
+    "council": "MMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Shanaya Kashyap",
+    "registrationId": "NMC/2019/117096",
+    "council": "NMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Aradhya Bhat",
+    "registrationId": "TSMC/2005/728439",
+    "council": "TSMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Riya Kumer",
+    "registrationId": "NMC/2001/526733",
+    "council": "NMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Farhan Goel",
+    "registrationId": "NMC/2019/914936",
+    "council": "NMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Yasmin Sanghvi",
+    "registrationId": "RMC/2023/323678",
+    "council": "RMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Indrajit Bhalla",
+    "registrationId": "TNMC/2005/125122",
+    "council": "TNMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Kartik Guha",
+    "registrationId": "KMC/2006/633408",
+    "council": "KMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Hridaan Comar",
+    "registrationId": "TSMC/2007/528541",
+    "council": "TSMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Anahi Doshi",
+    "registrationId": "NMC/2019/926834",
+    "council": "NMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Faiyaz Walla",
+    "registrationId": "APMC/2020/885236",
+    "council": "APMC",
+    "specialization": "Dermatologist"
+  },
+  {
+    "name": "Dr. Indrajit Johal",
+    "registrationId": "NMC/2004/260764",
+    "council": "NMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Indrajit Krish",
+    "registrationId": "KMC/2014/878048",
+    "council": "KMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Nitya Ramachandran",
+    "registrationId": "DMC/2009/651191",
+    "council": "DMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Prisha Balakrishnan",
+    "registrationId": "TNMC/2012/476334",
+    "council": "TNMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Yuvraj  Goswami",
+    "registrationId": "NMC/2009/559858",
+    "council": "NMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Emir Ray",
+    "registrationId": "MMC/2001/851244",
+    "council": "MMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Biju Gill",
+    "registrationId": "APMC/2013/464719",
+    "council": "APMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Farhan Bains",
+    "registrationId": "RMC/2002/839505",
+    "council": "RMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Hansh Dyal",
+    "registrationId": "MMC/2015/459797",
+    "council": "MMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Himmat Vyas",
+    "registrationId": "APMC/2020/905035",
+    "council": "APMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Anahita Sawhney",
+    "registrationId": "KMC/2018/461758",
+    "council": "KMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Tushar Dugar",
+    "registrationId": "APMC/2010/393148",
+    "council": "APMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Anya Sinha",
+    "registrationId": "GMC/2013/773271",
+    "council": "GMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Mishti Dalal",
+    "registrationId": "DMC/2007/629672",
+    "council": "DMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Damini Issac",
+    "registrationId": "KMC/2018/990426",
+    "council": "KMC",
+    "specialization": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Kaira Kannan",
+    "registrationId": "TSMC/2008/789911",
+    "council": "TSMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Vedika Sahota",
+    "registrationId": "NMC/2017/421170",
+    "council": "NMC",
+    "specialization": "Endocrinologist"
+  },
+  {
+    "name": "Dr. Ishaan Maharaj",
+    "registrationId": "TSMC/2018/908779",
+    "council": "TSMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Yuvraj  Behl",
+    "registrationId": "DMC/2019/669763",
+    "council": "DMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Ayesha Bhatti",
+    "registrationId": "RMC/2009/604998",
+    "council": "RMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Yuvaan Suri",
+    "registrationId": "TSMC/2013/410066",
+    "council": "TSMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Purab Samra",
+    "registrationId": "TNMC/2001/425366",
+    "council": "TNMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Ehsaan Atwal",
+    "registrationId": "TNMC/2017/911888",
+    "council": "TNMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Anika Ramesh",
+    "registrationId": "TSMC/2002/252498",
+    "council": "TSMC",
+    "specialization": "Neurologist"
+  },
+  {
+    "name": "Dr. Rania Bawa",
+    "registrationId": "APMC/2024/760442",
+    "council": "APMC",
+    "specialization": "Pediatrician"
+  },
+  {
+    "name": "Dr. Kanav Verma",
+    "registrationId": "TSMC/2013/516313",
+    "council": "TSMC",
+    "specialization": "Gynecologist"
+  },
+  {
+    "name": "Dr. Jiya Ramakrishnan",
+    "registrationId": "RMC/2010/527611",
+    "council": "RMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Dharmajan Wali",
+    "registrationId": "TNMC/2023/666893",
+    "council": "TNMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Biju Ramaswamy",
+    "registrationId": "DMC/2015/631554",
+    "council": "DMC",
+    "specialization": "Oncologist"
+  },
+  {
+    "name": "Dr. Vritika Issac",
+    "registrationId": "APMC/2013/551763",
+    "council": "APMC",
+    "specialization": "Cardiologist"
+  },
+  {
+    "name": "Dr. Damini Bahl",
+    "registrationId": "DMC/2016/151731",
+    "council": "DMC",
+    "specialization": "General Physician"
+  },
+  {
+    "name": "Dr. Kaira Vasa",
+    "registrationId": "GMC/2023/761734",
+    "council": "GMC",
+    "specialization": "Orthopedic"
+  },
+  {
+    "name": "Dr. Anika Sarin",
+    "registrationId": "NMC/2003/843366",
+    "council": "NMC",
+    "specialization": "Endocrinologist"
+  }
+]

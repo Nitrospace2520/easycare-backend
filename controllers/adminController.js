@@ -5,6 +5,7 @@ import bcrypt from "bcrypt";
 import validator from "validator";
 import { v2 as cloudinary } from "cloudinary";
 import userModel from "../models/userModel.js";
+import { validateRegistrationNo } from "../middleware/validateRegistrationNo.js";
 
 // API for admin login
 const loginAdmin = async (req, res) => {
@@ -57,6 +58,7 @@ const addDoctor = async (req, res) => {
   try {
     const {
       name,
+      registrationId,
       email,
       password,
       speciality,
@@ -71,6 +73,7 @@ const addDoctor = async (req, res) => {
     // checking for all data to add doctor
     if (
       !name ||
+      !registrationId ||
       !email ||
       !password ||
       !speciality ||
@@ -90,6 +93,16 @@ const addDoctor = async (req, res) => {
         message: "Please enter a valid email",
       });
     }
+
+    // // NOTE: validating doctor registration id through middleware
+    // validateRegistrationNo(req, res, (next) => {
+    //   if (!next) {
+    //     return res.json({
+    //       success: false,
+    //       message: "Doctor Registration ID already exists",
+    //     });
+    //   }
+    // });
 
     // validating strong password
     if (password.length < 8) {
@@ -111,6 +124,7 @@ const addDoctor = async (req, res) => {
 
     const doctorData = {
       name,
+      registrationId,
       email,
       image: imageUrl,
       password: hashedPassword,
